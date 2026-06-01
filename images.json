@@ -1,0 +1,66 @@
+{
+    "easy": [],
+    "hard": [],
+    "number": [
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n1.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n2.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n3.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n4.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n5.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n6.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n7.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n8.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n9.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n10.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n11.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n12.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n13.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n14.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n15.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n16.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n17.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n18.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n19.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n20.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n21.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n22.png"
+        },
+        {
+            "bgImageName": "Ludybug",
+            "bgImagePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n23.jpeg",
+            "outlinePath": "https://raw.githubusercontent.com/zaba-pro-max/ladybugcolor/refs/heads/main/n24.png"
+        }
+    ]
+}
